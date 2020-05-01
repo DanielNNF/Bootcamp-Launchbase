@@ -9,7 +9,7 @@ Foi realizado alguns desafios propostos pela [Rocketseat](https://rocketseat.com
 
 ## Tecnologia utilizada
 
-- JavasCript
+- Javascript
 
 
 
